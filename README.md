@@ -1,3 +1,31 @@
+# Safe McQueen
+
+> Portfólio de [Alberto da Rocha Miranda](https://github.com/angrysine) · Inteli · Módulo 6 · 2023
+
+## O que foi desenvolvido
+
+Simulação de robô para inspeção de espaços confinados, com coleta de dados de sensores e uso de imagens para apoiar a identificação de rachaduras.
+
+**Parceiro / contexto:** Gerdau.
+
+## Tecnologias e conceitos
+
+ROS 2 · Gazebo · TurtleBot3 · Visão computacional.
+
+## Participação e créditos
+
+Participei deste projeto como integrante da equipe no Inteli — Instituto de Tecnologia e Liderança. A solução é um trabalho coletivo; este fork organiza sua apresentação no meu portfólio e preserva os autores, créditos, licenças e materiais originais.
+
+[Repositório de origem](https://github.com/2023M6T2-Inteli/Safe-McQueen) · [Portfólio](https://angrysine.github.io/)
+
+## Documentação e execução
+
+As instruções técnicas e os materiais da equipe foram preservados abaixo e nas pastas do repositório. Esta atualização organiza a apresentação do projeto acadêmico e não representa uma nova validação de execução.
+
+---
+
+## Documentação original da equipe
+
 <table>
 <tr>
 <td>
